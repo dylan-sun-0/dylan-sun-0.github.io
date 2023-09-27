@@ -11,10 +11,11 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### examples of changes made to repo 
 ![Screenshot2](ActivityScreenshots/image2.png)
 ![Screenshot3](ActivityScreenshots/image3.png)
-### second round of revisions
+### other examples in non main page areas edits and changed 
 ![Screenshot4](ActivityScreenshots/image4.png)
 ![Screenshot5](ActivityScreenshots/image5.png)
 ![Screenshot16](ActivityScreenshots/image16.png)
+![Screenshot17](ActivityScreenshots/image17.png)
 ### more revisions were made, they were not all recorded, please check commit history 
 did not end up changing every single facet (some parts are still the same)
 made a best attempt effort to adjust a little bit in most sections
