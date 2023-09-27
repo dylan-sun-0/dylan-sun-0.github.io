@@ -11,3 +11,6 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### examples of changes made to repo 
 ![Screenshot2](Activity Screenshots/image2.png)
 ![Screenshot3](Activity Screenshots/image3.png)
+### second round of revisions
+![Screenshot4](Activity Screenshots/image4.png)
+![Screenshot5](Activity Screenshots/image5.png)
