@@ -14,9 +14,11 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### second round of revisions
 ![Screenshot4](ActivityScreenshots/image4.png)
 ![Screenshot5](ActivityScreenshots/image5.png)
+![Screenshot16](ActivityScreenshots/image16.png)
 ### more revisions were made, they were not all recorded, please check commit history 
 did not end up changing every single facet (some parts are still the same)
-made a best attempt effort to adjust most that I could 
+made a best attempt effort to adjust a little bit in most sections
+some portions of it are just edited in dummy data 
 ### final deployed home page (did a blank portrait for privacy reasons)
 ![Screenshot6](ActivityScreenshots/image6.png)
 
