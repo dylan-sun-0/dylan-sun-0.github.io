@@ -21,3 +21,5 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ## Activity 3
 ### change repo scheme from green to blue 
 ![Screenshot7](ActivityScreenshots/image7.png)
+### more changes to back ground color etc
+![Screenshot8](ActivityScreenshots/image8.png)
