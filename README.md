@@ -17,7 +17,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### more revisions were made, they were not all recorded, please check commit history 
 did not end up changing every single facet (some parts are still the same)
 made a best attempt effort to adjust most that I could 
-### final deployed home page (did not increase my profile photo for privacy reasons)
+### final deployed home page (did a blank portrait for privacy reasons)
 ![Screenshot6](ActivityScreenshots/image6.png)
 
 ## Activity 3
