@@ -23,3 +23,6 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![Screenshot7](ActivityScreenshots/image7.png)
 ### more changes to back ground color etc
 ![Screenshot8](ActivityScreenshots/image8.png)
+### final color of web page demo 
+![Screenshot9](ActivityScreenshots/image9.png)
+![Screenshot10](ActivityScreenshots/image10.png)
