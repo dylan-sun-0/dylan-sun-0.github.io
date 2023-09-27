@@ -17,3 +17,7 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### more revisions were made, they were not all recorded, please check commit history 
 ### final deployed home page (did not increase my profile photo for privacy reasons)
 ![Screenshot6](ActivityScreenshots/image6.png)
+
+## Activity 3
+### change repo scheme from green to blue 
+![Screenshot7](ActivityScreenshots/image7.png)
