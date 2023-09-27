@@ -15,6 +15,8 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![Screenshot4](ActivityScreenshots/image4.png)
 ![Screenshot5](ActivityScreenshots/image5.png)
 ### more revisions were made, they were not all recorded, please check commit history 
+did not end up changing every single facet (some parts are still the same)
+made a best attempt effort to adjust most that I could 
 ### final deployed home page (did not increase my profile photo for privacy reasons)
 ![Screenshot6](ActivityScreenshots/image6.png)
 
@@ -26,3 +28,15 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ### final color of web page demo 
 ![Screenshot9](ActivityScreenshots/image9.png)
 ![Screenshot10](ActivityScreenshots/image10.png)
+
+## Activity 4
+### nav bar component 1 on repo 
+![Screenshot11](ActivityScreenshots/image11.png)
+### small nav bar component 2 on repo 
+![Screenshot12](ActivityScreenshots/image12.png)
+### page embed in repo 
+![Screenshot13](ActivityScreenshots/image13.png)
+### final screen shots of results on webpage 
+![Screenshot14](ActivityScreenshots/image14.png)
+### final image to show compressed nav is also edited 
+![Screenshot15](ActivityScreenshots/image15.png)
