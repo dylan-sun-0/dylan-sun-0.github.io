@@ -8,6 +8,8 @@ https://github.com/varadbhogayata/varadbhogayata.github.io
 ![Screenshot1](ActivityScreenshots/image.png)
 
 ## Activity 2
+### commit history for activity 2
+![Screenshot18](ActivityScreenshots/image18.png)
 ### examples of changes made to repo 
 ![Screenshot2](ActivityScreenshots/image2.png)
 ![Screenshot3](ActivityScreenshots/image3.png)
@@ -24,6 +26,8 @@ some portions of it are just edited in dummy data
 ![Screenshot6](ActivityScreenshots/image6.png)
 
 ## Activity 3
+### commit history for activity 3
+![Screenshot19](ActivityScreenshots/image19.png)
 ### change repo scheme from green to blue 
 ![Screenshot7](ActivityScreenshots/image7.png)
 ### more changes to back ground color etc
@@ -33,6 +37,8 @@ some portions of it are just edited in dummy data
 ![Screenshot10](ActivityScreenshots/image10.png)
 
 ## Activity 4
+### commit history for activity 4
+![Screenshot20](ActivityScreenshots/image20.png)
 ### nav bar component 1 on repo 
 ![Screenshot11](ActivityScreenshots/image11.png)
 ### small nav bar component 2 on repo 
